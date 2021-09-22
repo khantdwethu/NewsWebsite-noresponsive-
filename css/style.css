@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Padauk:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Padauk:wght@400;700&family=Source+Sans+Pro:wght@300&display=swap');
 :root {
     --main_color: #26A6D1;
     --second_color: orange;
@@ -21,7 +21,7 @@ html {
     font-weight: 400;
     font-family: sans-serif;
     color: #080417;
-    font-family: 'Padauk', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif
 
 }
 
