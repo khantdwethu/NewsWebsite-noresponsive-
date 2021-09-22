@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Myanmar:wght@300;400;500;600;700;800;900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Rubik+Beastly&display=swap');
 :root {
     --main_color: #26A6D1;
     --second_color: orange;
@@ -43,8 +42,6 @@ html {
 .media_title {
     color: var(--main_color);
     font-size: 120%;
-font-family: 'Rubik Beastly', cursive;
-
 }
 
 .search_container,
