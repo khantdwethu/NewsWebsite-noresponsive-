@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Myanmar:wght@300;400;500;600;700;800;900&display=swap');
+
 :root {
     --main_color: #26A6D1;
     --second_color: orange;
@@ -21,7 +21,7 @@ html {
     font-weight: 400;
     font-family: sans-serif;
     color: #080417;
-    font-family: 'Noto Sans Myanmar', sans-serif;
+
 }
 
 .frames {
