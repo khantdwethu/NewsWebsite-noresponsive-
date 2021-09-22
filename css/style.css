@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Myanmar:wght@300;400;500;600;700;800;900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,100;1,300;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Beastly&display=swap');
 :root {
     --main_color: #26A6D1;
     --second_color: orange;
@@ -43,7 +43,8 @@ html {
 .media_title {
     color: var(--main_color);
     font-size: 120%;
-font-family: 'Berkshire Swash' !important;
+font-family: 'Rubik Beastly', cursive;
+
 }
 
 .search_container,
