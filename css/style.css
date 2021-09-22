@@ -110,7 +110,7 @@ select {
     z-index: 99;
     bottom: -140px;
     visibility: hidden;
-    transform: translateX(-30px) translateY(-20px);
+    transform: translateY(-20px);
     transition: all .3s linear;
 }
 .dropList{
@@ -131,7 +131,7 @@ select {
 }
 .more:hover ~ .dropbox,.dropbox:hover{
     visibility: visible;
-    transform: translateX(-30px) translateY(0px);
+    transform: translateY(0px);
 }
 
 
