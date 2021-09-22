@@ -43,8 +43,7 @@ html {
 .media_title {
     color: var(--main_color);
     font-size: 120%;
-font-family: 'Berkshire Swash', cursive;
-font-family: 'Roboto', sans-serif;
+font-family: 'Berkshire Swash', cursive , sans-serif !important;
 }
 
 .search_container,
